@@ -1,0 +1,34 @@
+#title {
+  color: green;
+  border: 5px double black;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+.btn {
+  background-color: rgb(9, 224, 153);
+  padding: 1rem 5rem;
+  border: none;
+  border-radius: 20px;
+  font-size: 2rem;
+}
+.btn:hover {
+  background-color: aqua;
+}
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}
+.table {
+  border: 1px solid #000;
+}
+.table thead th {
+  border-bottom: 1px solid #000;
+}
+.table tbody td {
+  border-bottom: 1px solid #000;
+}
+
+.border {
+  border: 1px solid #000;
+}
